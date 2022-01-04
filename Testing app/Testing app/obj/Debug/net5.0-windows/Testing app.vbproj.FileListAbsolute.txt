@@ -1,0 +1,19 @@
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.exe
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.deps.json
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.runtimeconfig.json
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.dll
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\ref\Testing app.dll
+C:\Users\USER\source\repos\Testing app\Testing app\bin\Debug\net5.0-windows\Testing app.pdb
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing_app.Form1.resources
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing_app.Form2.resources
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.AssemblyInfo.vb
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.dll
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\ref\Testing app.dll
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.pdb
+C:\Users\USER\source\repos\Testing app\Testing app\obj\Debug\net5.0-windows\Testing app.genruntimeconfig.cache

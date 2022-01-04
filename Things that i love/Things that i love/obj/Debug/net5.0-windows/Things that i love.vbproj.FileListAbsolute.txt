@@ -1,0 +1,19 @@
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.exe
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.deps.json
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.runtimeconfig.json
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.dll
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\ref\Things that i love.dll
+C:\Users\USER\source\repos\Things that i love\Things that i love\bin\Debug\net5.0-windows\Things that i love.pdb
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things_that_i_love.Form1.resources
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.AssemblyInfo.vb
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.dll
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\ref\Things that i love.dll
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.pdb
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things that i love.genruntimeconfig.cache
+C:\Users\USER\source\repos\Things that i love\Things that i love\obj\Debug\net5.0-windows\Things_that_i_love.Form2.resources

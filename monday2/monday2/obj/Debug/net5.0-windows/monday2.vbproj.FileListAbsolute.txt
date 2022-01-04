@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.exe
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.deps.json
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.runtimeconfig.json
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.runtimeconfig.dev.json
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.dll
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\ref\monday2.dll
+C:\Users\USER\source\repos\monday2\monday2\bin\Debug\net5.0-windows\monday2.pdb
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.Form1.resources
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.AssemblyInfo.vb
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.dll
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\ref\monday2.dll
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.pdb
+C:\Users\USER\source\repos\monday2\monday2\obj\Debug\net5.0-windows\monday2.genruntimeconfig.cache

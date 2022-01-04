@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.exe
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.deps.json
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.runtimeconfig.json
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.dll
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\ref\Class_locator.dll
+C:\Users\USER\source\repos\Class_locator\Class_locator\bin\Debug\net5.0-windows\Class_locator.pdb
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.Form1.resources
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.AssemblyInfo.vb
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.dll
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\ref\Class_locator.dll
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.pdb
+C:\Users\USER\source\repos\Class_locator\Class_locator\obj\Debug\net5.0-windows\Class_locator.genruntimeconfig.cache

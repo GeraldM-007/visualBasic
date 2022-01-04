@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.Form1.resources
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.AssemblyInfo.vb
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Gerald\Gerald\obj\Debug\netcoreapp3.1\Gerald.vbproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room_allocator.Txt1.resources
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.AssemblyInfo.vb
+C:\Users\USER\source\repos\Room allocator\Room allocator\obj\Debug\net5.0-windows\Room allocator.vbproj.CoreCompileInputs.cache

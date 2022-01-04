@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen_Customs_online_Order_app.homepage.resources
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen_Customs_online_Order_app.Resources.resources
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen_Customs_online_Order_app.specificationsform.resources
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.AssemblyInfo.vb
+C:\Users\USER\source\repos\Kitchen Customs online Order app\Kitchen Customs online Order app\obj\Debug\net5.0-windows\Kitchen Customs online Order app.vbproj.CoreCompileInputs.cache
